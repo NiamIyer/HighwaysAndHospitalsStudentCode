@@ -15,6 +15,14 @@ public class HighwaysAndHospitals {
      *  hospital access for all citizens in Menlo County.
      */
     public static long cost(int n, int hospitalCost, int highwayCost, int cities[][]) {
+        // Check if highwayCost < hospitalCost
+        // If it is not return hospitalCost * n
+        // If it is, do following:
+        // Check if everything can be connected by highway
+        // If it can, return n * (highwayCost - 1) + hospitalCost
+        // If not, add one hospital to each section
+        // (A section is a group of cities that can be connected by highway)
+        // Do step 5 for every section
         return 0;
     }
 }
