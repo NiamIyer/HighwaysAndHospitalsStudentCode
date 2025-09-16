@@ -1,9 +1,10 @@
 Name: YOUR NAME HERE
 
-| Date   | Time  |                                                                                                                                                                                                                                                                  Update |
-|:-------|:-----:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Sep 11 | 7-8pm | I wrote psuedocode to solve the problem. I thought about scenarios that I could simplify down to in the code to find the perfect solution which could be applied to n cities. I think that I found the lowest costing solution, having 1 hospital and the rest highways |
-|        |       |                                                                                                                                                                                                                                                                         |
-
+| Date   |   Time    |                                                                                                                                                                                                                                                                  Update |
+|:-------|:---------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Sep 11 |   7-8pm   | I wrote psuedocode to solve the problem. I thought about scenarios that I could simplify down to in the code to find the perfect solution which could be applied to n cities. I think that I found the lowest costing solution, having 1 hospital and the rest highways |
+| Sep 12 | 2-15-2:30 |                                                                                                                                                                                                               I researched adjecency matrices and how to implement them |
+Date: Sep 15 Time 7-7:45, 8-8:30 Update: I tried to think about how to effectively solve this problem. I still haven't done much in code so I'm planning on going to tutorial tomorrow, but I think that using a binary tree type of system would be the best. I haven't figured out how to implement that yet or if that is the best course of action, 
+so I'll ask that in class. Most of my time was just spent thinking to see if there were any other methods that could be better, but I think using parents and children would be the best, and the cities already remind me of nodes. I still don't know if I should have an array
 
 To add a new row to the table, click into a cell and then hit shift-enter.
